@@ -1,0 +1,10 @@
+# Ignore __pycache__ directories throughout the repository
+__pycache__/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jython-specific files
+*$py.class
